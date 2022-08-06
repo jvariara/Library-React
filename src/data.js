@@ -14,7 +14,7 @@ export const books = [
     url: "https://covers.openlibrary.org/b/id/10958382-L.jpg",
     originalPrice: 39,
     salePrice: null,
-    rating: 5,
+    rating: 3.5,
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ export const books = [
     url: "https://covers.openlibrary.org/b/id/7737110-L.jpg",
     originalPrice: 70,
     salePrice: 12.5,
-    rating: 5,
+    rating: 3,
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ export const books = [
     url: "https://covers.openlibrary.org/b/id/8906626-L.jpg",
     originalPrice: 35,
     salePrice: 19.95,
-    rating: 4.5,
+    rating: 5,
   },
   {
     id: 10,
